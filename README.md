@@ -8,7 +8,7 @@ This repository contains Python scripts for estimating parameters of models (of 
 The repository is organized as follows:
 
 
-* *scripts* contains all code for testing and validating our framework. In particular: 
+* **scripts** contains all code for testing and validating our framework. In particular: 
 
      * *GAM_Process_based_comparison*:  contain Python scripts for comparing stage-structured process based-model  to  generalized additive models (GAM) and process-based models without stage structure. 
 
@@ -29,7 +29,7 @@ The repository is organized as follows:
      * *impact_species_misspecification*: contain Python scripts for estimating and plotting the bias in abundance of 100 different species with life history type 2 calibrated using data from species with life history type 3(see  the manuscript for detailed information).
      
 
-* *Data* contains  two .csv file: jude_cod_test.csv and jude_cod_train.csv.  
+* **data** contains  two .csv file: jude_cod_test.csv and jude_cod_train.csv.  
     * *jude_cod_test.csv*  contains data on gadus morhua_Atl haulid, region where it was caught, year, month stratum, latitude, Ion, depth, bottom temperature and length class from 1968 to 2000. 
    
     * *jude_cod_test.csv** contains data on gadus morhua_Atl haulid, region where it was caught, year, month stratum, latitude, Ion, depth, bottom temperature and length class from 2001 to 2015. This data is used to further validate our framework. 
