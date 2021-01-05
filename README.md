@@ -1,1 +1,1 @@
-# Approx.-Bayes-Comp-Applications
+# Approx-Bayes-Comp-Applications
