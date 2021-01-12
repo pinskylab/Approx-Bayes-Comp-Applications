@@ -12,7 +12,7 @@ The repository is organized as follows:
 
      * *GAM_Process_based_comparison*:  contain Python scripts for comparing stage-structured process based-model  to  generalized additive models (GAM) and process-based models without stage structure. 
 
-     * *bias_param_est_species1*: contain Python scripts for estimating and plotting the bias in parameter estimation for 100 different species of life history type 2 (see  the manuscript for detailed information).
+     * *bias_param_est_species1*: contain Python scripts for estimating and plotting the bias in parameter estimation for 100 different species of life history type 1 (see  the manuscript for detailed information).
      
      * *bias_param_est_species2*: contain Python scripts for estimating and plotting the bias in parameter estimation for 100 different species of life history type 2 (see  the manuscript for detailed information).
      
