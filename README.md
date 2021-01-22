@@ -40,8 +40,7 @@ The repository is organized as follows:
 Analyses were conducted in RStudio 1.2.5033 on a MacBook Pro (16-inch, 2019)  with the following specifications: Processor 2.6 GHz 6-Core Intel Core i7, 
 Memory 16 GB 2667 MHz DDR4, Startup Disk Macintosh HD, Graphics Intel UHD Graphics 630 1536 MB.
 
-Please note that the scripts entitled `abc_general.py`, which execute the simulations and ABC algorithm, take several hours to run. 
-
+Scripts that execute Approximate Bayesian Computation may take hours to days to run, depending on the script and your computational capacity. To decrease running time, consider reducing the number of simulations `NUMBER_SIMS` or number of species `N_Species`.
 
 ## Use, problems, and feedback
 
